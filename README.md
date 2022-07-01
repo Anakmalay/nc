@@ -1,2 +1,2 @@
-# nc
+# termux auth
 Mr slowwww 
